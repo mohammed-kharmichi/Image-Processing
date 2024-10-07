@@ -1,5 +1,10 @@
 # Image-Processing
 
+## Technologies Utilisées
+###### Langage de programmation  Python
+###### Les fonctions sont tous implémentées à la main
+###### Interface graphique avec PyQt5
+
 ## Fonctionnalités
 
 Le projet propose les fonctionnalités suivantes
@@ -54,9 +59,4 @@ Appliquer des opérations de morphologie mathématique
 Segmenter une image à l'aide des techniques suivantes 
 ###### Croissance de régions.
 ###### Partition de régions.
-Méthode des k-means.
-
-************* Technologies Utilisées ***************
-Langage de programmation  Python
-Les fonctions sont tous implémentées à la main
-Interface graphique avec PyQt5
+###### Méthode des k-means.
