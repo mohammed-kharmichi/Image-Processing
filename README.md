@@ -5,14 +5,14 @@
 Le projet propose les fonctionnalités suivantes
 
 1/. Chargement et Sauvegarde d'Images
-Ouvrir des images dans différents formats (JPG, PNG, BMP, etc.).
-Enregistrer l'image dans un format donné.
+= Ouvrir des images dans différents formats (JPG, PNG, BMP, etc.).
+= Enregistrer l'image dans un format donné.
 
----- Opérations de Base
-Afficher l'image négative.
-Faire la rotation d'une image selon un angle donné.
-Redimensionner une image en spécifiant la taille ou un pourcentage de redimensionnement.
-Sélectionner manuellement une zone dans une image (rectangle ou sélection libre).
+2/. Opérations de Base
+= Afficher l'image négative.
+= Faire la rotation d'une image selon un angle donné.
+= Redimensionner une image en spécifiant la taille ou un pourcentage de redimensionnement.
+= Sélectionner manuellement une zone dans une image (rectangle ou sélection libre).
 
 ---- Binarisation
 Binariser une image en utilisant une binarisation globale 
