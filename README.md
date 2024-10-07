@@ -1,15 +1,10 @@
 # Image-Processing
 
-
-*********** Description **********
-
-Ce projet est un ensemble d'outils de traitement d'images. Il permet de manipuler, transformer, filtrer et segmenter des images de différentes manières. L'interface graphique, développée en Python, offre une expérience interactive pour appliquer des techniques de traitement d'images couramment utilisées.
-
-*********** Fonctionnalités ************
+============ Fonctionnalités ===============
 
 Le projet propose les fonctionnalités suivantes
 
----- Chargement et Sauvegarde d'Images
+1/. Chargement et Sauvegarde d'Images
 Ouvrir des images dans différents formats (JPG, PNG, BMP, etc.).
 Enregistrer l'image dans un format donné.
 
