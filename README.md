@@ -1,62 +1,62 @@
-# Image-Processing
+# Image Processing
 
-## Technologies Utilisées
-###### Langage de programmation  Python
-###### Les fonctions sont tous implémentées à la main
-###### Interface graphique avec PyQt5
+## Technologies Used
+###### Programming Language: Python  
+###### All functions are implemented manually : no pre-defined functions
+###### Graphical interface with PyQt5  
 
-## Fonctionnalités
+## Features
 
-Le projet propose les fonctionnalités suivantes
+The project offers the following features:
 
-#### Chargement et Sauvegarde d'Images
-###### Ouvrir des images dans différents formats (JPG, PNG, BMP, etc.).
-###### Enregistrer l'image dans un format donné.
+### Loading and Saving Images
+###### Open images in various formats (JPG, PNG, BMP, etc.).  
+###### Save the image in a specified format.  
 
-#### Opérations de Base
-###### Afficher l'image négative.
-###### Faire la rotation d'une image selon un angle donné.
-###### Redimensionner une image en spécifiant la taille ou un pourcentage de redimensionnement.
-###### Sélectionner manuellement une zone dans une image (rectangle ou sélection libre).
+### Basic Operations
+###### Display the negative of the image.  
+###### Rotate an image by a given angle.  
+###### Resize an image by specifying the size or a percentage of resizing.  
+###### Manually select an area in an image (rectangle or free selection).  
 
-#### Binarisation
-Binariser une image en utilisant une binarisation globale 
-###### Par seuillage manuel.
-###### Par l'algorithme d'Otsu ou d'autres méthodes.
+### Binarization
+Binarize an image using global binarization:  
+###### By manual thresholding.  
+###### By Otsu's algorithm or other methods.  
 
-#### Histogramme et Égalisation
-###### Afficher l'histogramme d'une image (niveaux de gris et couleur).
-###### Égaliser une image à niveaux de gris et une image en couleur.
-###### Étirer une image à niveaux de gris et une image en couleur.
+### Histogram and Equalization
+###### Display the histogram of an image (grayscale and color).  
+###### Equalize a grayscale image and a color image.  
+###### Stretch a grayscale image and a color image.  
 
-#### Filtrage Spatial
-Filtrer une image avec différents types de filtres 
-###### Filtre Gaussien (en spécifiant l'écart type).
-###### Filtre moyenneur (en spécifiant la taille du filtre).
-###### Filtre médian (en spécifiant la taille du filtre).
+### Spatial Filtering
+Filter an image with different types of filters:  
+###### Gaussian filter (specifying the standard deviation).  
+###### Average filter (specifying the filter size).  
+###### Median filter (specifying the filter size).  
 
-#### Filtrage Fréquentiel
-Appliquer un filtrage fréquentiel 
-###### Filtre passe-bas.
-###### Filtre passe-haut.
+### Frequency Filtering
+Apply frequency filtering:  
+###### Low-pass filter.  
+###### High-pass filter.  
 
-#### Extraction de Contours
-Extraire les contours dans une image à l'aide de plusieurs méthodes 
-###### Gradient.
-###### Sobel.
-###### Robert.
-###### Laplacien.
+### Edge Extraction
+Extract edges in an image using various methods:  
+###### Gradient.  
+###### Sobel.  
+###### Roberts.  
+###### Laplacian.  
 
-#### Morphologie Mathématique
-Appliquer des opérations de morphologie mathématique 
-###### Érosion.
-###### Dilatation.
-###### Ouverture.
-###### Fermeture.
-###### Filtrage morphologique.
+### Mathematical Morphology
+Apply mathematical morphology operations:  
+###### Erosion.  
+###### Dilation.  
+###### Opening.  
+###### Closing.  
+###### Morphological filtering.  
 
-#### Segmentation d'Images
-Segmenter une image à l'aide des techniques suivantes 
-###### Croissance de régions.
-###### Partition de régions.
-###### Méthode des k-means.
+### Image Segmentation
+Segment an image using the following techniques:  
+###### Region growing.  
+###### Region partitioning.  
+###### K-means method.
